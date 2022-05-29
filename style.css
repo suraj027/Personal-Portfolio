@@ -290,7 +290,7 @@ appearance: radio;
 }
 @keyframes jQuery-fill{
     100%{
-        width: 35%;
+        width: 50%;
     }
 }
 #AngularJS-bar{
@@ -298,7 +298,7 @@ appearance: radio;
 }
 @keyframes AngularJS-fill {
     100%{
-        width: 62%;
+        width: 75%;
     }
 }
 #php-bar{
