@@ -116,6 +116,9 @@ body{
 .fa-linkedin:hover{
     color: #0077b5;
 }
+.fa-github:hover{
+    color: white;
+}
 .fab {
     color: #000000;
 }
